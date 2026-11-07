@@ -1,13 +1,5 @@
 \# =====================================================================
 
-\# 🎬 VJ MIX GENERATOR v3 — telão sem áudio (Google Colab)
-
-\# Cole numa célula do Colab. Usa video\_files e OUTPUT se já existirem;
-
-\# senão lê de VIDEO\_DIR / grava em OUTPUT (ajuste abaixo).
-
-\#
-
 \# NOVIDADES v3
 
 \#  • Estrutura do set: breakdown / build / DROP (por análise do áudio,
